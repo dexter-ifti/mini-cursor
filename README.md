@@ -1,13 +1,13 @@
-# TeaCoder 🧠
+# mini-cursor 🧠
 
-**TeaCoder** is a terminal-based AI coding assistant designed to streamline full-stack project development. Leveraging AI capabilities, it assists developers in generating boilerplate code, managing project structures, and executing commands directly from the terminal.
+**mini-cursor** is a terminal-based AI coding assistant designed to streamline full-stack project development. Leveraging AI capabilities, it assists developers in generating boilerplate code, managing project structures, and executing commands directly from the terminal.
 
 ## 🚀 Features
 
-* **Terminal-Based Interface**: Interact with TeaCoder entirely through the terminal, eliminating the need for a graphical user interface.
+* **Terminal-Based Interface**: Interact with mini-cursor entirely through the terminal, eliminating the need for a graphical user interface.
 * **Full-Stack Project Generation**: Automatically create project structures for both frontend and backend applications.
 * **Code Generation**: Generate code snippets or entire files for various components, including React components, Express routes, and more.
-* **Command Execution**: Run shell commands like `npm install`, `pip install`, and others directly through TeaCoder.
+* **Command Execution**: Run shell commands like `npm install`, `pip install`, and others directly through mini-cursor.
 * **Contextual Understanding**: Analyze existing project files to provide context-aware suggestions and modifications.
 * **File Operations**: Read, write, and modify files as needed to implement requested features or changes.
 
@@ -29,8 +29,8 @@
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yashpandav/TeaCoder.git
-   cd TeaCoder
+   git clone https://github.com/dexter-ifti/mini-cursor.git
+   cd mini-cursor
    ```
 
 
@@ -52,13 +52,12 @@
 
 ## 🧪 Usage
 
-Run the TeaCoder assistant using:
+Run the mini-cursor assistant using:
 
 ```bash
 python cursor_agent.py
 ```
 
-### Demo
-https://www.youtube.com/watch?v=7AV0e6Etm8g&list=PLm3PPaAhVA-YfZdyG9lDjgPAoo1CP5bqK
+
 
 
